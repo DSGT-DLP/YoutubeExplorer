@@ -14,7 +14,7 @@ We want to build a platform where you can enter the name of a Youtube Channel an
 ## How to get started
 **VERY IMPORTANT:** Sign up or login to your Github account. Fork a copy of this repo by clicking on the "Fork" button towards the top right
 
-![fork.png](./fork.png)
+<img src="fork.png"/>
 
 
 Make sure that you have [Node version 18](https://nodejs.org/en/download/) installed (it should come with npm version 9)
