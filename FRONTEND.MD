@@ -18,4 +18,6 @@ Right now, the view is a bunch of text and we can surely improve the aesthetics!
 
 2. Currently, our app displays all entities (header, text) in a vertical fashion. Sometimes, we might want entities (eg: buttons, text fields, tooltips, etc) on the "same level" in the screen (imagine two buttons next to each other on a website). Find a way to display the "Put text field to enter Youtube Channel here!" and "Put search button here!" on the same level instead of aligned vertically
 
-3. 
+## Order of implementation
+1. `Search.js`
+2. `Result.js`
