@@ -26,7 +26,22 @@ Run `git clone https://github.com/DSGT-DLP/YoutubeExplorer.git`
 Follow the instructions in the "How do I see something on the browser?" section to test that something renders in the browser. Once you do this step succesfully, head on over to `ASSIGNMENT.MD` and follow the instructions there
 
 ## How to send edits to your project to Github
-Sometimes, we want to 
+You might be making some good progress on the Youtube Explorer app, but then all of a sudden, your computer crashes. All that work you did was lost! How do we prevent this scenario in the future? Well, you can use what's called version control to handle that. This project is version controlled through a tool called `Git`. Git helps manage the state of this project and will detect if you make any changes.
+
+Git is not the same as GitHub. Git is a version control system while GitHub is a website that lets you store your code in what's called a **repository**. 
+
+In order to send your edits from your local editor to Github (as in the website), you need to first tell `Git` what changes you want to send to Github (ie: what will you put in the birthday present?). Once you tell `Git` what you want to send to GitHub, you want to add a message to describe what the change is (ie: what message do you want to deliver to the recipient of the birthday present?). Finally, you need to actually send your changes to GitHub (ie: deliver the birthday present to the recipient). The way you will do this is through this sequence of commands (make sure you `cd` into `~/YoutubeExplorer` first):
+
+```
+git add .
+git commit -m "<your message here. keep it short and sweet>"
+git push
+```
+`git add .` tells Git what changes you want to send to GitHub
+`git commit -m "<your message here>"` tells Git what description to save for the given changes
+`git push` actually sends your changes to GitHub.
+
+>After you complete a part of the project (eg: building the text field or the search button), you should run the above sequence of commands to send these important edits to Github
 
 ## Extra Resources
 
