@@ -14,7 +14,7 @@ We want to build a platform where you can enter the name of a Youtube Channel an
 ## How to get started
 **VERY IMPORTANT:** Sign up or login to your Github account. Fork a copy of this repo by clicking on the "Fork" button towards the top right
 
-<img src="fork.png"/>
+<img src="fork.PNG"/>
 
 
 Make sure that you have [Node version 18](https://nodejs.org/en/download/) installed (it should come with npm version 9)
@@ -25,6 +25,8 @@ Run `git clone https://github.com/DSGT-DLP/YoutubeExplorer.git`
 
 Follow the instructions in the "How do I see something on the browser?" section to test that something renders in the browser. Once you do this step succesfully, head on over to `ASSIGNMENT.MD` and follow the instructions there
 
+## How to send edits to your project to Github
+Sometimes, we want to 
 
 ## Extra Resources
 
