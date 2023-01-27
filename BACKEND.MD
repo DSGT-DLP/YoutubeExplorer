@@ -38,7 +38,11 @@ Before we can even start using an API, we need to generate what's called an `API
 
 7. Select "Youtube Data API V3" (or "Youtube Data API"). Select "Web server" for the question regarding "Where will you be calling the API from?". Select "Public Data" for "Which data will you be accessing?"
 
-8. Click the blue button at the bottom and you will see an icon saying "Here is your API Key". Please copy and paste this API key to the `.env` file under `src/`. The `.env` file will safely store your API key and not expose it to other users
+8. Click the blue button at the bottom and you will see an icon saying "Here is your API Key". Please copy and paste this API key to the `.env` file under `src/` (fill in the `YOUTUBE_API_KEY` variable). The `.env` file will safely store your API key and not expose it to other users. 
 
 ## Developing the Backend
-Now that you have the API key generated for the Youtube API, 
+Now that you have the API key generated for the Youtube API, we can start to interact with the Youtube API to get Youtube videos associated with a given Youtube Channel. 
+
+For simplicity, your Youtube API code will be written in `YoutubeAPI.js` file under `src/` directory. There are a couple functions you can fill out here as a starting point to help you get the data you need to build that table!
+
+>Tip: Read the Youtube API documentation to make sure you understand how you are supposed to create the request to get the data you want from the Youtube API
