@@ -1,0 +1,24 @@
+# Assignment Instructions
+
+As you saw in the README.md, your task is to build a React.js application that allows you to input the name of a Youtube Channel and display a table containing information about the constituent videos. For example, if I input "Mr. Beast" as the Youtube Channel in the search bar, I should be seeing a table containing videos Mr. Beast posted along with some high level information such as likes, views, comment count, publish date, etc
+
+
+## What to do
+
+### Da
+
+### Build the frontend
+Try taking the instructions from above and seeing if you can brainstorm what a minimum viable experience should look like. If you are overthinking this, you are going in the wrong direction.
+
+Hint: Think about this app like a search engine! What does the user do on a search engine?
+
+### Build the backend
+Fortunately, Youtube provides what's called an API (Application Programming Interface). The best way to understand what an API is is through a real world example.
+
+**Scenario:** Suppose you go to Starbucks to get your morning cup of coffee (let's say it's a Latte :)). When you go to place your order for a latte, the barista would take your order and whip up your latte (combining the coffee beans, milk in the right proportions to get the latte taste). You as the customer don't have to necessarily worry about how the latte is prepared, but rather that you receive the latte. This idea is called abstraction. We are not caring too much about the details of how your latte is prepared. Rather, we care about how to get a latte from Starbucks by placing the request and the barista is servicing it. This concept is exactly what an API is doing. 
+
+**What's the advantage of an API:** On the developer's side, having a convenient way to fetch the data we want for our Youtube Explorer app would make our lives easier. We don't have to worry about the internal data modeling of Youtube videos because we have a convenient endpoint to place our "request" to and receive our items (kind of like placing an order for a latte and receiving that warm cup of coffee in your hand).
+
+See this diagram below:
+![api-image](https://lvivity.com/wp-content/uploads/2018/07/how-api-work.jpg)
+
