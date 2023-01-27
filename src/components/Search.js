@@ -1,5 +1,11 @@
 import React from "react";
 
+/**
+ * This component will contain the code related to search view on the user's side
+ * You will write the text field where user can enter the Youtube Channel 
+ * along with a search button
+ * @returns 
+ */
 const Search = () => {
     //store any data you would like to save here!
 
