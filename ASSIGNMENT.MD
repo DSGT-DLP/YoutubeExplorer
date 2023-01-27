@@ -25,6 +25,8 @@ Try taking the instructions from above and seeing if you can brainstorm what a m
 
 Hint: Think about this app like a search engine! What does the user do on a search engine?
 
+You will want to follow the `FRONTEND.md` file for more information on how we can build out the frontend
+
 ### Build the backend (ie: how do we get the data for a given Youtube Channel from Youtube's server?)
 Fortunately, Youtube provides what's called an API (Application Programming Interface). The best way to understand what an API is is through a real world example.
 
