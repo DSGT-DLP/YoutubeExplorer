@@ -45,4 +45,7 @@ Now that you have the API key generated for the Youtube API, we can start to int
 
 For simplicity, your Youtube API code will be written in `YoutubeAPI.js` file under `src/` directory. There are a couple functions you can fill out here as a starting point to help you get the data you need to build that table!
 
->Tip: Read the Youtube API documentation to make sure you understand how you are supposed to create the request to get the data you want from the Youtube API
+## Tips
+>Read the Youtube API documentation to make sure you understand how you are supposed to create the request to get the data you want from the Youtube API
+>Filling out the functions in the `YoutubeAPI.js` might help break your problem down into manageable chunks
+>Think about the format in which you want to send your data from the `YoutubeAPI.js` file to your frontend. JSON tends to be the standard format for such practice

@@ -11,14 +11,19 @@ At the root of the project (ie: at the `~/YoutubeExplorer` path), run `npm run b
 ## What is the goal of this application?
 We want to build a platform where you can enter the name of a Youtube Channel and answer some basic questions. 
 
-## How to setup
-Make sure that you have Node version 18 installed (it should come with npm version 9)
+## How to get started
+**VERY IMPORTANT:** Sign up or login to your Github account. Fork a copy of this repo by clicking on the "Fork" button towards the top right
+
+![fork.png]("./fork.png")
+
+
+Make sure that you have [Node version 18](https://nodejs.org/en/download/) installed (it should come with npm version 9)
 
 Install Git on your machine. This will act as your version control system
 
 Run `git clone https://github.com/DSGT-DLP/YoutubeExplorer.git`
 
-Follow the instructions in the "How do I see something on the browser?" section to test that something renders in the browser
+Follow the instructions in the "How do I see something on the browser?" section to test that something renders in the browser. Once you do this step succesfully, head on over to `ASSIGNMENT.MD` and follow the instructions there
 
 
 ## Extra Resources

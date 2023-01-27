@@ -22,3 +22,10 @@ Right now, the view is a bunch of text and we can surely improve the aesthetics!
 1. Implement `Search.js`
 2. Follow instructions in `BACKEND.MD`
 3. Implement `Result.js` (once you know how the data from the backend will be structured, making the table should be a bit more doable)
+
+## Helpful Hints
+1. States and Props tend to come up a lot in React.js. Think about what the difference between a state vs. a prop
+2. Components are useful in making sure that your frontend code is "modular" and "extensible". Putting all the frontend code in one file is not necessarily the most scalable method for building apps especially at large scale
+3. Helper functions might help you break the problem down into more manageable and testable steps.
+4. You can add `console.log("<PUT YOUR MESSAGE HERE>")` to help debug if your data is getting passed around properly
+5. Try changing small pieces of the code at a time and see how the frontend renders

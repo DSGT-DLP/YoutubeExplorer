@@ -38,5 +38,8 @@ See this diagram below to understand how an API fits into an application:
 
 ![api-image](https://lvivity.com/wp-content/uploads/2018/07/how-api-work.jpg)
 
+You will be following `BACKEND.MD` for this segment of the project
 
+### Written component of the project
+If you got to this step and have a working application, give yourself a pat on the back. You just completed your first full stack application project in React.js. To make sure that you understand how React.js works, please answer the questions in `WRITTEN.MD` **in your own words with 3-4 sentences maximum per response**
 
