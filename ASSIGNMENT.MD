@@ -25,7 +25,7 @@ Try taking the instructions from above and seeing if you can brainstorm what a m
 
 Hint: Think about this app like a search engine! What does the user do on a search engine?
 
-You will want to follow the `FRONTEND.md` file for more information on how we can build out the frontend
+You will want to follow the [FRONTEND.md](FRONTEND.md) file for more information on how we can build out the frontend
 
 ### Build the backend (ie: how do we get the data for a given Youtube Channel from Youtube's server?)
 Fortunately, Youtube provides what's called an API (Application Programming Interface). The best way to understand what an API is is through a real world example.
@@ -38,7 +38,7 @@ See this diagram below to understand how an API fits into an application:
 
 ![api-image](https://lvivity.com/wp-content/uploads/2018/07/how-api-work.jpg)
 
-You will be following `BACKEND.MD` for this segment of the project
+You will be following [BACKEND.md](BACKEND.md) for this segment of the project
 
 ### Written component of the project
 If you got to this step and have a working application, give yourself a pat on the back. You just completed your first full stack application project in React.js. To make sure that you understand how React.js works, please answer the questions in `WRITTEN.MD` **in your own words with 3-4 sentences maximum per response**
