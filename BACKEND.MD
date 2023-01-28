@@ -2,7 +2,7 @@
 Now that we have the basic workings for how the user will interact
 with our application, it's time to focus on how we will get the video data.
 
-As mentioned in the `ASSIGNMENT.MD` file, the user enters a Youtube Channel and we need to list out the videos in the given Youtube Channel. This task is where the Youtube API will come in handy
+As mentioned in the [ASSIGNMENT.MD](ASSIGNMENT.MD) file, the user enters a Youtube Channel and we need to list out the videos in the given Youtube Channel. This task is where the Youtube API will come in handy
 
 
 ## What do we exactly need from the Youtube API?
