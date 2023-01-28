@@ -23,7 +23,7 @@ Install Git on your machine. This will act as your version control system
 
 Run `git clone https://github.com/DSGT-DLP/YoutubeExplorer.git`
 
-Follow the instructions in the "How do I see something on the browser?" section to test that something renders in the browser. Once you do this step succesfully, head on over to [ASSIGNMENT.MD](./ASSIGNMENT.md) and follow the instructions there
+Follow the instructions in the "How do I see something on the browser?" section to test that something renders in the browser. Once you do this step succesfully, head on over to [ASSIGNMENT.MD](ASSIGNMENT.md) and follow the instructions there
 
 ## How to send edits to your project to Github
 You might be making some good progress on the Youtube Explorer app, but then all of a sudden, your computer crashes. All that work you did was lost! How do we prevent this scenario in the future? Well, you can use what's called version control to handle that. This project is version controlled through a tool called `Git`. Git helps manage the state of this project and will detect if you make any changes.
